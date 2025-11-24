@@ -1,6 +1,8 @@
 ## 👋 Hey, I'm Deepa  
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeepaC2003/DeepaC2003/refs/heads/main/gifff.gif" width="600"/>
+</p>
 AI enthusiast, poet on weekends and someone who finally decided to take her career seriously (like… actually seriously).
 
 I build things that learn, generate, reason and sometimes misbehave.  

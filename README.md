@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Deepa  
 
-<!--
+
 AI enthusiast, poet on weekends and someone who finally decided to take her career seriously (like… actually seriously).
 
 I build things that learn, generate, reason and sometimes misbehave.  
@@ -37,4 +37,4 @@ If you vibe with neural networks, quirky energy, or serious ambition wrapped in 
 </p>
 
 
--->
+

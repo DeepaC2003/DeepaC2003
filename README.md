@@ -1,7 +1,7 @@
 ## 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepaC2003/DeepaC2003/refs/heads/main/gifff.gif" width="600"/>
+  <img src="xyz.jpg" width="600"/>
 </p>
 audio intelligence for the void
 
